@@ -103,7 +103,7 @@ Using the command runserver, run your server and then access the static and html
         <p class="subtitle">Uncover the power of Django through a journey into web development's core.</p>
         <p class="title">A Dive into Django</p>
         <div>
-            <p class="author">Saul goodman</p>
+            <p class="author">A.R.Basil</p>
             <img src="images/author.png" class="author-photo">
         </div>
    
@@ -115,7 +115,8 @@ Using the command runserver, run your server and then access the static and html
 ```
 
 ## Output:
-![Output](output.png)
+![image](https://github.com/arbasil05/cover-page-design/assets/144218037/7b768284-be5c-4d6a-8124-d15da12af8b3)
+
 
 ## Result:
 Book cover has been made using HTML and CSS 
